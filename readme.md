@@ -1,1 +1,1 @@
-## this repo contains practice files
+## this repo contains practices files
