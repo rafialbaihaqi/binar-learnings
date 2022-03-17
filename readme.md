@@ -1,1 +1,1 @@
-## this repo contains practices files
+## practice one; Media Query
